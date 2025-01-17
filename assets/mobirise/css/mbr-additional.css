@@ -1,8 +1,5 @@
-body {
-  font-family: Jost;
-}
+
 .display-1 {
-  font-family: 'Lexend', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -10,7 +7,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Lexend', sans-serif;
+
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -18,15 +15,15 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Lexend', sans-serif;
+
   font-size: 1.1rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 1.375rem;    
 }
 .display-5 {
-  font-family: 'Lexend', sans-serif;
+
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -34,7 +31,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Lexend', sans-serif;
+
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -586,7 +583,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Lexend', sans-serif;
+
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -600,7 +597,7 @@ a:hover {
   border-color: #639d19 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Lexend', sans-serif;
+
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -692,7 +689,7 @@ a {
   position: fixed;
 }
 .cid-sFF0ciwnEL .dropdown-item:before {
-  font-family: Moririse2 !important;
+
   content: "\e966";
   display: inline-block;
   width: 0;
@@ -1355,7 +1352,7 @@ a {
   position: fixed;
 }
 .cid-uzFMAnE05F .dropdown-item:before {
-  font-family: Moririse2 !important;
+
   content: "\e966";
   display: inline-block;
   width: 0;
@@ -2233,7 +2230,7 @@ a {
   text-shadow: none;
   z-index: 5;
   transition: opacity 0.3s ease;
-  font-family: 'Moririse2';
+
   align-items: center;
   justify-content: center;
   display: flex;
@@ -2502,7 +2499,7 @@ a {
   position: fixed;
 }
 .cid-uzFME0gGpx .dropdown-item:before {
-  font-family: Moririse2 !important;
+
   content: "\e966";
   display: inline-block;
   width: 0;
@@ -3093,7 +3090,7 @@ a {
   position: fixed;
 }
 .cid-uzFMFpS2O2 .dropdown-item:before {
-  font-family: Moririse2 !important;
+
   content: "\e966";
   display: inline-block;
   width: 0;
